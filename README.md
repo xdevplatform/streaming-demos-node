@@ -15,9 +15,9 @@ Clone GitHub repo:
 git clone https://github.com/twitterdev/twitter-streaming-demos-node
 ```
 
-Create a Twitter [Twitter application](https://apps.twitter.com).
+Create a [Twitter application](https://apps.twitter.com).
 
-Create a `config.json` file using `config.sample.json` as a template. Fill in your Twitter App API and PubNub keys.
+Create a `config.json` file using `config.sample.json` as a template. Fill in your Twitter App API keys.
 
 
 Install node module dependencies:
