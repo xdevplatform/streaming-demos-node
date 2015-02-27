@@ -12,7 +12,7 @@ Install [Node.js](http://nodejs.org/).
 Clone GitHub repo:
 
 ```
-https://github.com/twitterdev/twitter-streaming-demos-node
+git clone https://github.com/twitterdev/twitter-streaming-demos-node
 ```
 
 Create a Twitter [Twitter application](https://apps.twitter.com).
@@ -44,7 +44,7 @@ node stream-geo.js
 Run client-side streaming demo:
 
 ```
-Run index.html in a web server enivronment
+Run index.html in a web server environment
 ```
 Resources
 ----
